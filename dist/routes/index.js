@@ -1,0 +1,20 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const swagger_router_1 = __importDefault(require("./swagger.router"));
+const test_router_1 = __importDefault(require("./test.router"));
+const user_router_1 = __importDefault(require("./user.router"));
+const todolist_router_1 = __importDefault(require("./todolist.router"));
+const todoitem_router_1 = __importDefault(require("./todoitem.router"));
+const auth_router_1 = __importDefault(require("./auth.router"));
+const indexRouter = (0, express_1.Router)();
+indexRouter.use("/docs", swagger_router_1.default);
+indexRouter.use("/tests", test_router_1.default);
+indexRouter.use("/users", user_router_1.default);
+indexRouter.use("/todolist", todolist_router_1.default);
+indexRouter.use("/todoitem", todoitem_router_1.default);
+indexRouter.use("/auth", auth_router_1.default);
+exports.default = indexRouter;

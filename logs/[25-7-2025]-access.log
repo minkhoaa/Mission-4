@@ -1,0 +1,160 @@
+➡️ [TIME = 2025-07-25T02:19:58.760Z, ID = 01K0ZP2KWV3T6J2G232VEJ05K2]]
+Request: GET /api/docs/
+Headers: {"host":"localhost:3000","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 200 OK; Duration: 13ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T02:19:58.780Z, ID = 01K0ZP2KXT06V5H6HCM88DE9Y3]]
+Request: GET /api/docs/swagger-ui-init.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"104d-iUmWbjVvT15JbP4bsMqEooFzyf0\""}
+Response: 304 Not Modified; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T02:19:58.783Z, ID = 01K0ZP2KXQM6VQAWTD7J6SPE97]]
+Request: GET /api/docs/swagger-ui.css
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"text/css,*/*;q=0.1","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"style","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"25e4c-1983a59a864\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 8ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T02:19:58.785Z, ID = 01K0ZP2KXRY5HAST113YY142M7]]
+Request: GET /api/docs/swagger-ui-bundle.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"16ac1f-1983a59a9b0\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 9ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T02:19:58.787Z, ID = 01K0ZP2KXS6AJFDHSS93WVGBVE]]
+Request: GET /api/docs/swagger-ui-standalone-preset.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"37f67-1983a59aad2\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 10ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T02:19:59.099Z, ID = 01K0ZP2M7JTMV2F11NG99E75GB]]
+Request: GET /api/docs/favicon-32x32.png
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"image","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"274-1983a59ac4a\"","if-modified-since":"Thu, 24 Jul 2025 02:53:32 GMT"}
+Response: 304 Not Modified; Duration: 9ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:45.993Z, ID = 01K0ZT9QBZ26ZJQR88ZNHY2KKX]]
+Request: GET /api/docs/
+Headers: {"host":"localhost:3000","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 200 OK; Duration: 10ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:46.015Z, ID = 01K0ZT9QCVZD5P0ECA78940HEC]]
+Request: GET /api/docs/swagger-ui.css
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"text/css,*/*;q=0.1","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"style","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"25e4c-1983a59a864\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 4ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:46.019Z, ID = 01K0ZT9QCWYBTZV6HXF4P5SQ11]]
+Request: GET /api/docs/swagger-ui-bundle.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"16ac1f-1983a59a9b0\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 7ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:46.022Z, ID = 01K0ZT9QD523QTAS57DFCPAANS]]
+Request: GET /api/docs/swagger-ui-standalone-preset.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"37f67-1983a59aad2\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:46.026Z, ID = 01K0ZT9QD93PF5VB4JRG973QQP]]
+Request: GET /api/docs/swagger-ui-init.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"104d-iUmWbjVvT15JbP4bsMqEooFzyf0\""}
+Response: 304 Not Modified; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T03:33:49.072Z, ID = 01K0ZT9TCFK3CWM4EE7KSQVRMB]]
+Request: GET /favicon.ico
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"image","referer":"http://localhost:3000/docs/api-document.json","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 404 Not Found; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:12.097Z, ID = 01K10FG0HV4FXKPVEB10CSH95X]]
+Request: GET /api/docs/
+Headers: {"host":"localhost:3000","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"c22-H8FH9nKD8DeX/nvIRrte6ZjP2a4\""}
+Response: 304 Not Modified; Duration: 6ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:12.209Z, ID = 01K10FG0NH4WGAWRN1WSBH2J7Y]]
+Request: GET /api/docs/swagger-ui-init.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"104d-iUmWbjVvT15JbP4bsMqEooFzyf0\""}
+Response: 304 Not Modified; Duration: 0ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:12.256Z, ID = 01K10FG0NG3V3B7AZ8ARZWG75P]]
+Request: GET /api/docs/swagger-ui.css
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"text/css,*/*;q=0.1","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"style","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"25e4c-1983a59a864\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 48ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:12.258Z, ID = 01K10FG0NGHRA24Q0JVK3WQWGB]]
+Request: GET /api/docs/swagger-ui-bundle.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"16ac1f-1983a59a9b0\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 50ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:12.259Z, ID = 01K10FG0NHHCG3RZDRC1JD4475]]
+Request: GET /api/docs/swagger-ui-standalone-preset.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"37f67-1983a59aad2\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 50ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:21.473Z, ID = 01K10FG9NKB6TZHPF63F0CWQE0]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"23","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 201 Created; Duration: 46ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:44:28.983Z, ID = 01K10FGH1NQJBESRTC5JS3DS09]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 2ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:56:14.687Z, ID = 01K10G626RMTHPHJGX8TKZ8JKQ]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 8ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T09:58:29.406Z, ID = 01K10GA5RPHZVCF62B6Y174SY3]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 8ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.341Z, ID = 01K10GEEDPV63XQG9TFS2M31JT]]
+Request: GET /api/docs/
+Headers: {"host":"localhost:3000","connection":"keep-alive","cache-control":"max-age=0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"same-origin","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"c22-H8FH9nKD8DeX/nvIRrte6ZjP2a4\""}
+Response: 304 Not Modified; Duration: 7ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.354Z, ID = 01K10GEEE9WHB1AG76TGAS9VT7]]
+Request: GET /api/docs/swagger-ui-init.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","if-none-match":"W/\"104d-iUmWbjVvT15JbP4bsMqEooFzyf0\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 304 Not Modified; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.438Z, ID = 01K10GEEE766NJMJ2TST0CZXES]]
+Request: GET /api/docs/swagger-ui.css
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"text/css,*/*;q=0.1","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"style","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"25e4c-1983a59a864\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT"}
+Response: 304 Not Modified; Duration: 87ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.439Z, ID = 01K10GEEE81HMNJ79AGGT450WS]]
+Request: GET /api/docs/swagger-ui-bundle.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","if-none-match":"W/\"16ac1f-1983a59a9b0\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 304 Not Modified; Duration: 87ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.440Z, ID = 01K10GEEE8GAR6FGB65Q3JGJNC]]
+Request: GET /api/docs/swagger-ui-standalone-preset.js
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","if-none-match":"W/\"37f67-1983a59aad2\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","if-modified-since":"Thu, 24 Jul 2025 02:53:31 GMT","sec-ch-ua-mobile":"?0","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 304 Not Modified; Duration: 88ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:49.682Z, ID = 01K10GEERH1YXNPE2HQ7QRY6NP]]
+Request: GET /api/docs/favicon-32x32.png
+Headers: {"host":"localhost:3000","connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","sec-ch-ua-mobile":"?0","accept":"image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"image","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8","if-none-match":"W/\"274-1983a59ac4a\"","if-modified-since":"Thu, 24 Jul 2025 02:53:32 GMT"}
+Response: 304 Not Modified; Duration: 1ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:52.732Z, ID = 01K10GEHQCCX78H84D8EHHWMTQ]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"23","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 201 Created; Duration: 16ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:00:57.962Z, ID = 01K10GEPV8Y62WBTN64YTKJ9C7]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 500 Internal Server Error; Duration: 2ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:04:24.813Z, ID = 01K10GN0V6Q9KS9PDK6AWWXNNK]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 7ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:05:03.473Z, ID = 01K10GP6KACV66Z107J15HS3BE]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 7ms
+-------------------------------------------------------------------------------------------------------
+➡️ [TIME = 2025-07-25T10:10:20.414Z, ID = 01K10GZW3Q1MD5ET4F51QPXBCQ]]
+Request: POST /api/tests
+Headers: {"host":"localhost:3000","connection":"keep-alive","content-length":"18","sec-ch-ua-platform":"\"Windows\"","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0","accept":"application/json","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"","content-type":"application/json","sec-ch-ua-mobile":"?0","origin":"http://localhost:3000","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/api/docs/","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9,vi;q=0.8"}
+Response: 400 Bad Request; Duration: 8ms
+-------------------------------------------------------------------------------------------------------
