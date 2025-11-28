@@ -1,12 +1,9 @@
 import { NextFunction, Request, Response } from "express";
 import { todoListsService } from "../services/todolist.service";
-import {
-  CreateTodoListBody,
-  UpdateTodoListBody,
-} from "../validations/todo.schema";
+import { CreateTodoListBody, UpdateTodoListBody } from "../schemas/todo.schema";
 import { AuthRequest } from "../middlewares/auth.middleware";
 import { AppError } from "../core/errors/AppError";
-import { User } from "../schemas/user";
+import { User } from "../models/user";
 
 export const ToDoListController = {
   async create(req: AuthRequest, res: Response, next: NextFunction) {

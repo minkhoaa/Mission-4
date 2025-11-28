@@ -5,7 +5,7 @@ import { validateRequest } from "../middlewares";
 import {
   createTodoListSchema,
   updateTodoListSchema,
-} from "../validations/todo.schema";
+} from "../schemas/todo.schema";
 
 const todolistRouter = Router();
 

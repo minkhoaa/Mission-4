@@ -1,5 +1,5 @@
-import { ToDoList, TodoListStatus } from "../schemas/todolist";
-import { ToDoItem } from "../schemas/todoitem";
+import { ToDoList, TodoListStatus } from "../models/todolist";
+import { ToDoItem } from "../models/todoitem";
 import { AppError } from "../core/errors/AppError";
 
 export interface CreateToDoListDto {

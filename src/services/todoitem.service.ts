@@ -1,8 +1,8 @@
 import { userInfo } from "os";
-import { ToDoItem, TodoItemStatus } from "../schemas/todoitem";
+import { ToDoItem, TodoItemStatus } from "../models/todoitem";
 import { da } from "zod/v4/locales";
 import { AppError } from "../core/errors/AppError";
-import { ToDoList } from "../schemas/todolist";
+import { ToDoList } from "../models/todolist";
 import { neverOrAny } from "mongoose";
 
 export interface CreateToDoItemDto {

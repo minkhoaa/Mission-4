@@ -1,4 +1,4 @@
-import { FileModel } from "../schemas/file";
+import { FileModel } from "../models/file";
 
 export const FileService = {
   async saveFile(file: Express.Multer.File) {

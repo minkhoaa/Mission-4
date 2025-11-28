@@ -1,9 +1,6 @@
 import { NextFunction, Request, Response } from "express";
 import { ToDoItemService } from "../services/todoitem.service";
-import {
-  createToDoItemBody,
-  updateToDoItemBody,
-} from "../validations/todo.schema";
+import { createToDoItemBody, updateToDoItemBody } from "../schemas/todo.schema";
 
 export const TodoItemController = {
   async Create(req: Request, res: Response, next: NextFunction) {

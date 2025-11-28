@@ -5,7 +5,7 @@ import { validateRequest } from "../middlewares";
 import {
   createToDoItemSchema,
   updateTodoItemSchema,
-} from "../validations/todo.schema";
+} from "../schemas/todo.schema";
 
 const todoItemRouter = Router();
 

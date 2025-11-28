@@ -1,9 +1,7 @@
-import { date } from "zod";
-import { Account } from "../schemas/account";
-import { User } from "../schemas/user";
+import { Account } from "../models/account";
+import { User } from "../models/user";
 import bcrypt from "bcrypt";
 import { generateTokens, JwtPayload } from "../utils/jwt";
-import { access } from "fs";
 import { AppError } from "../core/errors/AppError";
 export interface RegisterDto {
   name: string;

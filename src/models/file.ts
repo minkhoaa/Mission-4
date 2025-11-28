@@ -1,6 +1,4 @@
-import { timeStamp } from "console";
 import mongoose, { Document, Schema } from "mongoose";
-import { string } from "zod";
 
 export interface IFile extends Document {
   path: string;

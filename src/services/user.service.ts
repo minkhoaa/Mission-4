@@ -1,7 +1,7 @@
 import { AppError } from "../core/errors/AppError";
-import { ToDoItem } from "../schemas/todoitem";
-import { ToDoList } from "../schemas/todolist";
-import { Gender, User } from "../schemas/user";
+import { ToDoItem } from "../models/todoitem";
+import { ToDoList } from "../models/todolist";
+import { Gender, User } from "../models/user";
 
 export interface CreateUserDto {
   name: string;
